@@ -25,7 +25,7 @@
   
   
  <p align="center">
-  <img src="https://github.com/1ucif3r/LBomber/blob/main/ss.png" alt="ss"/>
+  <img src="https://github.com/1ucif3r/nmapscan_bot/blob/main/ss.png" alt="ss"/>
 </p>
   
   
